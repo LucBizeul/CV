@@ -1,0 +1,51 @@
+#Code de déontologie
+
+## Préambule
+
+Il s’applique à toutes interventions de coaching quelles qu’elles soient : initiées et prises en charge directement par le coaché ou un tiers - l’employeur généralement.. 
+
+Les coachs interviennent dans des missions qui concernent aussi bien le domaine professionnel que personnel.Ces missions ont toutes la même finalité : 
+
+* Contribuer à l’optimisation des capacités et des ressources propres à chaque personne, à chaque équipe ou entreprise. 
+
+* Permettre à chaque entité d'évoluer en conscience et en responsabilité sur les axes d’apprentissage qui leur sont propres afin de se situer dans une dynamique de progression (meilleure estime de soi, atteinte des objectifs, définition d’une vision stratégique, etc…). * Dans tous les cas de figure, le Coach est placé en position de soutien inconditionnel de ou des personnes qu’il accompagne.
+
+* En aucun cas, il ne se substitue à cette personne ou à ce groupe de personnes pour prendre des décisions à la place de ceux qui sont concernés. ##Vision de l’être humain
+Un coach croit en la dignité et l’intégrité de chaque être humain et s’engage à promouvoir les capacités et les ressources propres à chaque personne.
+
+Il respecte ses clients, leurs besoins, leurs demandes et leur apporte un soutien constructif inconditionnel. Il les aide à se fixer des objectifs motivants et épanouissants et à donner le meilleur d’eux-mêmes.
+
+Il les accompagne dans la mise en œuvre des moyens les plus rapides et les plus efficaces qui leur permettront d’atteindre leurs objectifs.
+
+
+##Responsabilités du Coach**Formation** : Chaque Coach a fait la preuve qu’il a été formé au métier de Coach par un organisme professionnel compétent ( ou qu’il est en cours de formation). Il ne recourt qu’à des techniques éprouvées et qu’il maîtrise.
+**Supervision** : Chaque Coach peut prouver qu’il bénéficie d’une supervision permanente et qu’il y recourt régulièrement dans le cadre de l’exercice de sa profession.
+**Développement personnel** : Chaque Coach s’engage dans une relation d’aide. Il a fait sur lui-même une démarche de développement personnel ou de travail thérapeutique lui permettant d’avoir une connaissance approfondie de lui-même.
+**Probité : Chaque Coach s’engage pénalement à ne pas adhérer à une secte tels que définie par la MIVILUDES (Mission Interministérielle de Vigilance et de Lutte contre les Dérives Sectaires).**
+
+##Responsabilités du Coach vis à vis du Coaché**Contrat :** Chaque Coach s’engage dans une relation contractuelle dûment établie avec son client précisant au minimum l’objet de la mission, sa durée et les honoraires.
+**Obligation de moyens :** l’un des principes fondateurs du coaching est que le Coaché est seul maître de ses décisions et des résultats qu’elles entraînent. 
+
+En conséquence le Coach reste dans le cadre de sa mission : accompagner le client dans le cadre de la mise en œuvre de ses résolutions. 
+
+Chaque Coach s’engage en conscience à mobiliser l’ensemble de ses compétences et tous les moyens qu’il juge appropriés à l’accomplissement de sa mission. 
+**Clarté :** Chaque Coach s’engage à ne pas accepter de missions pour lesquelles il ne se sent pas suffisamment qualifié. En tant que de besoin, il proposera de faire appel à l’un de ses confrères afin que la prestation soit une réussite pour le client.
+**Respect :** Chaque Coach exerce sa profession dans le respect des droits fondamentaux de la personne tels qu’ils sont inscrits dans la « Déclaration Universelle des Droits de l’Homme ». 
+
+Il respectera son client dans son identité, et veillera à ne pas abuser de son rôle d’influence.
+
+Son espace de supervision lui permettra de réguler les enjeux liés au pouvoir-permission-puissance et ceux du pouvoir-dépendance d’autrui. 
+**Loyauté :** Chaque Coach s’engage en toutes circonstances à faire preuve d’une entière loyauté fondée sur le respect inconditionnel des valeurs personnelles du client qui l’a honoré de sa confiance et à mettre tout en œuvre pour sauvegarder ses intérêts légitimes.**Intégrité :** Chaque Coach s’interdit : * d’accepter pour une mission déterminée, aucune autre rémunération que celle convenue avec le client. 
+* de solliciter ou d'accepter d'un tiers, à l'insu de son client, aucun avantage, aucune commission ou rétribution de quelque nature que ce soit. * toute démarche, manœuvre ou déclaration pouvant directement ou indirectement nuire à la réputation d'un confrère ou être préjudiciable à ses affaires. * pour obtenir des affaires, de recourir à des moyens incompatibles avec la dignité de la profession, et en particulier de publier des annonces ou des textes à caractère laudatif. * Il s’assure que les informations échangées le sont au bénéfice de son client et non de sa promotion personnelle ou professionnelle.**Confidentialité :** Chaque Coach s’engage à respecter les règles du secret professionnel garantissant la stricte confidentialité des informations (dans la limite que lui impose la loi de son pays), qui concernent le client et ses partenaires éventuel.
+
+
+##Responsabilités du Coach intervenant en entreprise**Adaptabilité :** Chaque Coach intervenant dans le cadre de l’entreprise doit tenir compte de toutes les informations relatives au contexte organisationnel et à la culture de l’entreprise de façon à être en compréhension du référentiel de base de la structure avec laquelle il travaille.**Restitution :** La relation de coaching qui s’établit en entreprise est bien souvent de nature tripartite.
+
+De ce fait, le donneur d’ordre est en droit de recevoir des éléments d’appréciation de la mission.
+
+Toutefois cette information ne peut se faire sans accord préalable du coaché, et dans le cadre exclusif de son acceptation. 
+**Congruence :** Chaque Coach s’engage à exercer sa mission en veillant à la congruence entre les intérêts du coaché et ceux de l’entreprise.Code d’honneur du Coach vis à vis de la profession**Alliance :** Chaque Coach s’engage à faire preuve d'esprit de confraternité et d'entraide à l'égard des experts et hommes de l'art avec lesquels il est amené à collaborer, en s’interdisant tout dénigrement ou critique. **Veille :** Chaque Coach s’engage à actualiser régulièrement ses compétences et à ne pas rester figé sur ses acquis. Rester en veille par rapport à soi-même et aux techniques d’accompagnement est un gage de professionnalisme. 
+
+
+Agoraction - Luc Bizeul21 rue Du Cardinal LemoineTéléphone : 06 12 20 60 21
+Numéro de Siret : 52345772900029Code APE : 7022Z
