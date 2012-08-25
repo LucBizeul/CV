@@ -2,7 +2,6 @@
 
 ##S
 
-Luc Bizeul
 Coach agile et coach professionnel j’aide des organisations à devenir plus agiles en travaillant à la fois sur des dynamiques de groupes, processus et design d’organisation.
 
 Après avoir commencé ma carrière comme développeur et être passé par quelques grandes SSII du secteur agile pour créer mon entreprise : Agoraction et l’Agile Game Center, centre de formation dédié aux jeux agiles et autres serious games.
