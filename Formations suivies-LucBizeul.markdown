@@ -5,8 +5,10 @@
 * L'université du Nous - Holacratie et Sociocratie * Institut de la gouvernance intégrale - Holacratie###2010 
 * ICA, Paris - formation aux méthodes ICA
 * Genuine Contact, formation au Forum Ouvert
-* The Art Of Hosting (Forum Ouvert, World Café,  Thérorie du U, démarche apréciative)* No Limit Coaching : Master de coach professionnel###2009
-* Pyxis Technologies :  Certification Scrum Master & Domain Driven Design * No Limit Coaching : Certification de coach professionnel###2008 
+* The Art Of Hosting (Forum Ouvert, World Café,  Thérorie du U, démarche apréciative)* No Limit Coaching : Master de coach professionnel
+* [Statup Week End Paris #3] (http://paris.startupweekend.org)###2009
+* Pyxis Technologies :  Certification Scrum Master & Domain Driven Design * No Limit Coaching : Certification de coach professionnel
+* [Startup Week end Paris #1] (http://lacantine.org/events/start-up-week-end)###2008 
 * Valtech : Java / JEE
 * CNAM Paris : Ingénieur systèmes distribués 
 
