@@ -1,4 +1,8 @@
 ##Contributions
+
+* Traduction avec Jean Hellou de l'Xp Game V5
+
+* Traduction avec Alexandre Richard de "Fear Less Journey", le jeu basé sur le livre "Fear Less Change".
 * Création de la charte du coach agile professionnel 
 
 * Création d’un outil de coaching : « le cercle de reconnaissance» 
