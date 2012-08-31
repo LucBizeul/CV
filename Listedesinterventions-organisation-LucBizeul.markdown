@@ -7,9 +7,9 @@
 
 20/09 : Co organisation du [JavaCampParis9](http://barcamp.org/w/page/58086646/JavaCampParis9)
 
-06/09 : "Hands On" sur l'agilité auprès des [Jduchesses](http://www.duchess-france.org/hands-on-agilite/)
+06/09 : Animation d'un "Hands On" sur l'agilité auprès des [Jduchesses](http://www.duchess-france.org/hands-on-agilite/)
 
-05/09 : Atelier sur la théorie des contraintes [Programme My Business Education] (http://www.mybusinesseducation.fr/)
+05/09 : Animation d'un atelier sur la théorie des contraintes pour le [Programme My Business Education] (http://www.mybusinesseducation.fr/)
 
 Traduction avec [Jean Helou](https://twitter.com/jeanhelou) de la version 5 de l'Xp Game
 * Version originale [http://www.xp.be/xpgame.html](http://www.xp.be/xpgame.html/)
