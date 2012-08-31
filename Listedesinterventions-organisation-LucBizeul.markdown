@@ -1,12 +1,26 @@
 #Liste (non exhaustive) des interventions / contributions de Luc Bizeul :
-#####(@lucbizeul / 06 12 20 60 21) ###**2012 :**Atelier sur l’Appréciative Inquiry [Scrum Night] (http://www.meetup.com/frenchsug/events/37782582/)
+#####(@lucbizeul / 06 12 20 60 21) ###**2012 :**
 
-Intervention sur l’agilité - [Programme My Business Education] (http://www.mybusinesseducation.fr/)Intervention sur la théorie des contraintes - [Programme My Business Education] (http://www.mybusinesseducation.fr/)Présentation de GTD à l’[association nationale des journalistes pigistes](http://pigiste.org/)Orateur pour les JavaCamps à [Devoxx France] (http://www.devoxx.com/display/FR12/Accueil)
+06/12 : Co organisation d'[Agile Tour Sophia Antipolis](http://at2012.agiletour.org/fr/sophia-antipolis.html)
+
+22-23/09 : Co organisation d'un [Agile Coach Camp à Paris ](http://www.meetup.com/Agile-Coach-Camp-France/)
+
+20/09 : Co organisation du [JavaCampParis9](http://barcamp.org/w/page/58086646/JavaCampParis9)
+
+06/09 : "Hands On" sur l'agilité auprès des [Jduchesses](http://www.duchess-france.org/hands-on-agilite/)
+
+05/09 : Atelier sur la théorie des contraintes [Programme My Business Education] (http://www.mybusinesseducation.fr/)
+
+Traduction avec [Jean Helou](https://twitter.com/jeanhelou) de la version 5 de l'Xp Game
+* Version originale [http://www.xp.be/xpgame.html](http://www.xp.be/xpgame.html/)
+* version française sur [Git Hub](https://github.com/LucBizeul/XP-Game-FR-V5/)
+Atelier sur l’Appréciative Inquiry [Scrum Night] (http://www.meetup.com/frenchsug/events/37782582/)
+
+Intervention sur l’agilité - [Programme My Business Education] (http://www.mybusinesseducation.fr/)Présentation de GTD à l’[association nationale des journalistes pigistes](http://pigiste.org/)Orateur pour les JavaCamps à [Devoxx France] (http://www.devoxx.com/display/FR12/Accueil)
 
 Orateur pour la BOF Agile à [Devoxx France] (http://www.devoxx.com/display/FR12/Accueil)
 
 Présentation de l'agilité à la DSI de l'éducation nationale
-Co - organisation de l'[Agile Tour Sophia Antipolis](http://at2012.agiletour.org/fr/sophia-antipolis.html)
 Co - organisation du premier [Agile Coach Camp Français] (http://www.agilecoachcamp.fr/)
 
 Intervention et co - organisation d'un évènement sur PMI et Agilité au [Project Management Institut - Chapitre France Sud] (http://www.pmi-fr.org/index.php?option=com_content&view=article&id=624:cote-dazur-forum-agiles-project-management-post-evenement&catid=16:branche-ca-forums&Itemid=28) ###**2011 :**«Scrum pour servir» (scrum dans les services) [Agile Tour Marseille] (http://at2011.agiletour.org/fr/node/964)«Scrum pour servir» (scrum dans les services) [Agile Tour Strasbourg] (http://at2011.agiletour.org/fr/strasbourg.html)
